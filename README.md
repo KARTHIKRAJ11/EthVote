@@ -1,5 +1,4 @@
-Technologies used - HTML, CSS, JAVASCRIPT, 
-MERN STACK, BOOTSTRAP, SOLIDITY, GANACHE 
+Technologies used - MERN stack, BOOTSTRAP, SOLIDITY, GANACHE 
 
 The project aims to make a website using blockchain technology to build an e-voting 
 system. Blockchain technology is immutable, 
